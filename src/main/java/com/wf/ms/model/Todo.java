@@ -70,8 +70,9 @@ public class Todo {
 		this.done = done;
 	}
 	
-// 	public Todo() {
-// 	}
+	public Todo() {
+		super();
+	}
 
 	public Todo(int id, String user, String des, Date targetDate, boolean done) {
 		super();
