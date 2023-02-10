@@ -31,6 +31,4 @@ Collection of the mainly used frameworks in this project. There are more, but th
 *   [Spring Web](https://docs.spring.io/spring/docs/5.2.0.RC2/spring-framework-reference/web.html#spring-web)
 *   [Spring Boot](https://docs.spring.io/spring-boot/docs/2.2.0.M6/reference/htmlsingle/)
 
-
-
-
+Continuous Deployment of todorest app is generated.
